@@ -452,7 +452,7 @@ div .imagenes-casa img {
 .overlay-patronus.active {
 	visibility: visible;
 }
-img{
+.img-characters-patronus{
   max-width: 50%;
 }
 .popup-patronus {
