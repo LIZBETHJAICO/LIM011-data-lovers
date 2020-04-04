@@ -452,6 +452,9 @@ div .imagenes-casa img {
 .overlay-patronus.active {
 	visibility: visible;
 }
+img{
+  max-width: 50%;
+}
 .popup-patronus {
 	background:black;
 	padding: 20px;
@@ -476,6 +479,7 @@ div .imagenes-casa img {
 }
 letter-modal {
 color: white;
+
 }
 
 @media screen and  (max-width:768px) {
